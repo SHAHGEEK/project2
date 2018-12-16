@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.activities;
+package com.signupdemo.loginregister.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
