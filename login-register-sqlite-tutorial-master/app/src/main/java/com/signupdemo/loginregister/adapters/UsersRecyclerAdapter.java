@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.adapters;
+package com.signupdemo.loginregister.adapters;
 
 import android.support.v7.widget.AppCompatTextView;
 import android.support.v7.widget.RecyclerView;
