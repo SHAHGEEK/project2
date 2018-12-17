@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.sql;
+package com.signupdemo.loginregister.sql;
 
 import android.content.ContentValues;
 import android.content.Context;
